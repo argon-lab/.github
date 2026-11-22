@@ -5,8 +5,14 @@
   </picture>
 </p>
 
-**Argon Labs builds [Argon](https://github.com/argon-lab/argon): MongoDB sandboxes for AI agents, with Git for MongoDB underneath.** Give every agent run its own real MongoDB database, forked from your data, review what it changed, merge what you want and discard the rest. Open source under the MIT license; works with your own replica set or MongoDB Atlas, from the free tier.
+**Argon Labs builds developer infrastructure for AI agents and the data they touch.**
 
-- [argon-lab/argon](https://github.com/argon-lab/argon): the engine, CLI, MCP server and console
-- [argonlabs.tech](https://argonlabs.tech): documentation, quickstart and blog
-- `npm install -g argonctl --allow-scripts=argonctl` or `brew install argon-lab/tap/argonctl`
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [Argon](https://github.com/argon-lab/argon) | MongoDB sandboxes for AI agents, with Git for MongoDB underneath: fork a real database per agent run, review what changed, merge or discard. MIT. |
+| [argon-agents](https://github.com/argon-lab/argon-agents) | Python SDK for Argon. |
+| [benchmarks](https://github.com/argon-lab/benchmarks) | Reproducible measurements and walkthroughs behind our published numbers. |
+
+More at [argonlabs.tech](https://argonlabs.tech).
