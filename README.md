@@ -3,6 +3,7 @@
 Organization-wide files for [Argon Labs](https://github.com/argon-lab).
 
 - `profile/README.md` is the text shown on the organization's GitHub page.
+- `SECURITY.md` and `CODE_OF_CONDUCT.md` are the defaults for every repository that does not have its own.
 - `profile/assets/` holds the Argon Labs mark: the Argon element tile (18, Ar) in `#5140D8` with the number in `#DCD8F7`, Archivo type converted to paths so the SVGs need no fonts.
 
 | File | Use |
